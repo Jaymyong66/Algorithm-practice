@@ -9,3 +9,14 @@ def circle():
             print(f'#{i+1} YES')
         else:
             print(f'#{i+1} NO')
+
+def circle_best():
+    num = int(input())
+
+    for i in range(num):
+        s=input()
+        s = s.upper()
+        if s == s[::-1]:
+            print("#%d YES" % (i+1))
+        else:
+            print("#%d NO" % (i+1))
