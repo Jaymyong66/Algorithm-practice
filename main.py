@@ -1,3 +1,3 @@
-from sec3 import circle
+from sec3 import only_number
 
-circle.circle_best()
+only_number.only_number()
