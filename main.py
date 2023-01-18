@@ -1,3 +1,3 @@
-from sec3 import only_number
+from sec3 import card_reverse
 
-only_number.only_number()
+card_reverse.card_reverse()
