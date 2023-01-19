@@ -1,3 +1,3 @@
-from sec3 import card_reverse
+from sec3 import sum_two_list
 
-card_reverse.card_reverse()
+sum_two_list.sum_two_list()
