@@ -1,5 +1,5 @@
-from sec3 import sum_two_list
+from sec3 import nums_sum
 
 # sum_two_list.sum_two_list2()
 
-sum_two_list.two_sum_3()
+nums_sum.nums_sum_best()
