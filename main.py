@@ -1,5 +1,5 @@
-from sec3 import nums_sum
+from sec3 import grid_sum
 
 # sum_two_list.sum_two_list2()
 
-nums_sum.nums_sum_best()
+grid_sum.grid_sum()
